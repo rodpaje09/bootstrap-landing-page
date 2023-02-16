@@ -1,0 +1,81 @@
+body {
+    background-color: #1f2937;
+    font-family: "Nunito", sans-serif;
+}
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+#mainNavbar .navbar-brand {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+#mainNavbar .navbar-brand:hover {
+    color: #ea1c2c;
+    cursor: pointer;
+}
+
+#mainNavbar .nav-link { 
+    color: #e5e7eb;
+
+}
+
+#mainNavbar .nav-link:hover {
+    color: #ea1c2c;
+    cursor: pointer;
+
+}
+
+#headingGroup h1 {
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+#headingGroup p {
+    color: #e5e7eb;
+    font-weight: 100;
+}
+
+#features {
+    background-color: white;
+}
+
+#features h2 {
+    font-weight: 700;
+    font-size: 36px;
+    color: #1f2937;
+}
+
+#quote {
+    background-color: #e5e7eb;
+}
+
+#quote blockquote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+    color: #1f2937;
+}
+
+#quote figcaption {
+    font-size: 25px;
+    color: #1f2937;
+}
+
+#signup {
+    background-color: white;
+}
+
+#signup .signupBox{
+    border-radius: 10px;
+    background-color: #3882f6;
+    color: #f9faf8;
+}
+
+#contact p {
+    font-size: 1em;
+    color: #e5e7eb;
+}
